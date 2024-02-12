@@ -1,10 +1,8 @@
 name = hw_rat
 type = body+head
 scale = 1
-filename = RAT 2.fbx
-texdir = textures
+filename = RAT.glb
 bs = 
-materialMap = {"mat::Teeth": { "materialVersion": 1, "materials": { "albedo": [1, 1, 1], "metallic": 0.165999948978424, "roughness": 0.217999994754791, "emissive": [0, 0, 0] } }}
 jointRotationOffset2 = Thumb.L.001 = (-0.0184638, 0.9292916, -0.09310691, 0.3569428)
 jointRotationOffset2 = RingFinger.R.001 = (-0.0642016, -0.9925981, -0.1001332, 0.02452511)
 jointRotationOffset2 = PointerFinger.L.002.L = (-0.05943129, 0.9810004, 0.1563244, 0.09833381)
