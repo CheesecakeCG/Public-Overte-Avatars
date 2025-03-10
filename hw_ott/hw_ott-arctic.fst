@@ -62,7 +62,6 @@ jointRotationOffset2 = Head = (0.00401522, 2.028725E-06, -2.71952E-08, 0.999992)
 jointRotationOffset2 = Eye.L = (-0.001058106, -4.992042E-08, -3.528799E-08, 0.9999995)
 jointRotationOffset2 = Eye.R = (-0.001058106, 1.608135E-07, -3.551093E-08, 0.9999995)
 jointRotationOffset2 = Jaw = (-0.8827748, 4.832699E-08, -2.526467E-07, 0.4697964)
-
 jointRotationOffset2 = Upperarm.L = (0.003108191, 0.8322811, 0.03931301, -0.5529497)
 jointRotationOffset2 = Forearm.L = (-0.03743654, 0.8245783, -0.01662933, -0.5642634)
 jointRotationOffset2 = Hand.L = (-0.102217, 0.8069224, 0.04707481, -0.5798384)
@@ -117,4 +116,10 @@ jointRotationOffset2 = Thigh.R = (0.06355461, -0.02421043, 0.04196141, -0.996801
 jointRotationOffset2 = Calf.R = (-0.2055828, 0.00607661, -0.007382962, -0.9785932)
 jointRotationOffset2 = Foot.R = (0.2228157, -0.06013517, -0.01129408, -0.9729387)
 jointRotationOffset2 = Toes.R = (0.4038307, -0.001387827, -0.0147987, -0.914713)
+
+bs = EyeBlink_L = Blink.L = 1
+bs = EyeBlink_R = Blink.R = 1
+bs = JawOpen = VismeAH = 1
+bs = LipsFunnel = VismeOH = 1
+bs = LipsUpperClose = VismeCH = 1
 
