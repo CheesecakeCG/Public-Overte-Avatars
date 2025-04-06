@@ -50,6 +50,22 @@ jointMap = LeftFoot = Toes.L
 jointMap = RightUpLeg = Thigh.R
 jointMap = RightLeg = Calf.R
 jointMap = RightFoot = Toes.R
+
+jointMap = flow_tail_0 = Tail
+jointMap = flow_tail_1 = Tail.004
+jointMap = flow_tail_2 = Tail.002
+jointMap = flow_tail_3 = Tail.005
+jointMap = flow_tail_4 = Tail.001
+jointMap = flow_tail_5 = Tail.006
+jointMap = flow_tail_6 = Tail.003
+jointMap = flow_tail_7 = Tail.007
+
+flowPhysicsData = {"tail":{"active":true,"damping":0.6,"delta":0.4,"gravity":-0.006,"inertia":0.2,"radius":0.01,"stiffness":0.7}}
+flowCollisionsData = {"LeftArm":{"offset":{"x":0,"y":0.02,"z":0},"radius":0.05,"type":"sphere"}}
+flowCollisionsData = {"RightArm":{"offset":{"x":0,"y":0.02,"z":0},"radius":0.05,"type":"sphere"}}
+flowCollisionsData = {"Spine2":{"offset":{"x":0,"y":0.2,"z":0},"radius":0.14,"type":"sphere"}}
+
+
 jointRotationOffset2 = Otter(Clone) = (0, 0, 0, -1)
 jointRotationOffset2 = Armature = (-0.7071068, 0, 0, -0.7071068)
 jointRotationOffset2 = Hips = (0.1787759, 7.977075E-07, 5.09597E-06, -0.9838899)
