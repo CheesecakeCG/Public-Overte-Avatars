@@ -60,7 +60,7 @@ jointMap = flow_tail_5 = Tail.006
 jointMap = flow_tail_6 = Tail.003
 jointMap = flow_tail_7 = Tail.007
 
-flowPhysicsData = {"tail":{"active":true,"damping":0.6,"delta":0.4,"gravity":-0.006,"inertia":0.2,"radius":0.01,"stiffness":0.7}}
+flowPhysicsData = {"tail":{"active":true,"damping":0.6,"delta":0.4,"gravity":-0.006,"inertia":0.2,"radius":0.1,"stiffness":0.7}}
 flowCollisionsData = {"LeftArm":{"offset":{"x":0,"y":0.02,"z":0},"radius":0.05,"type":"sphere"}}
 flowCollisionsData = {"RightArm":{"offset":{"x":0,"y":0.02,"z":0},"radius":0.05,"type":"sphere"}}
 flowCollisionsData = {"Spine2":{"offset":{"x":0,"y":0.2,"z":0},"radius":0.14,"type":"sphere"}}
