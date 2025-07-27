@@ -134,10 +134,6 @@ jointRotationOffset2 = Tail.005 = (0.8859733, -0.0004436224, 0.0008529742, 0.463
 jointRotationOffset2 = Tail.006 = (0.8677597, -0.0005683256, 0.0009978029, 0.496983)
 jointRotationOffset2 = Thigh.L = (-0.01751413, 0.9898375, 0.1137945, -0.08346202)
 jointRotationOffset2 = Calf.L = (0.01652875, 0.967916, -0.2325003, -0.09385705)
-jointRotationOffset2 = Foot.L = (-0.01267653, 0.9814271, 0.1735485, -0.08075482)
-jointRotationOffset2 = Toes.L = (-0.09780708, 0.9104917, 0.4012337, -0.02122653)
 jointRotationOffset2 = Thigh.R = (0.01754904, 0.9898617, 0.1135873, 0.08345006)
 jointRotationOffset2 = Calf.R = (-0.01656509, 0.9679691, -0.2322832, 0.093843)
-jointRotationOffset2 = Foot.R = (0.01264023, 0.9813888, 0.1737687, 0.08075426)
-jointRotationOffset2 = Toes.R = (0.09815715, 0.9104569, 0.4012258, 0.02125369)
 materialMap = {"mat::Clear": { "materialVersion": 1, "materials": { "albedo": [1, 1, 1], "metallic": 0, "roughness": 0.102999985218048, "emissive": [0, 0, 0] } },"mat::Teeth": { "materialVersion": 1, "materials": { "albedo": [1, 1, 1], "metallic": 0.119999952614307, "roughness": 0.120000004768372, "emissive": [0, 0, 0] } }}
