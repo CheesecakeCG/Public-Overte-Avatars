@@ -62,10 +62,10 @@ jointMap = RightHandThumb2 = Thumb.R.001
 jointMap = RightHandThumb3 = Thumb.R.002
 jointMap = LeftUpLeg = Thigh.L
 jointMap = LeftLeg = Calf.L
-jointMap = LeftFoot = Toes.L
+jointMap = LeftFoot = Foot.L
 jointMap = RightUpLeg = Thigh.R
 jointMap = RightLeg = Calf.R
-jointMap = RightFoot = Toes.R
+jointMap = RightFoot = Foot.R
 jointRotationOffset2 = doggo(Clone) = (0, 0, 0, -1)
 jointRotationOffset2 = Armature = (-0.7071068, 0, 0, -0.7071068)
 jointRotationOffset2 = Hips = (0.1082764, -0.002456879, 0.005022407, -0.9941052)
